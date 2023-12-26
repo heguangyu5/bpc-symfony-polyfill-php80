@@ -1,3 +1,10 @@
+# BPC Notes: How to make?
+
+```shell
+make libsymfony-polyfill-php80.so && sudo make install-libsymfony-polyfill-php80
+sudo ldconfig
+```
+
 Symfony Polyfill / Php80
 ========================
 
